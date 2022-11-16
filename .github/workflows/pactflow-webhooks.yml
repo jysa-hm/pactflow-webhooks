@@ -1,3 +1,5 @@
+name: contract_requiring_verification_published
+
 jobs:
   build:
     name: contract_requiring_verification_published
